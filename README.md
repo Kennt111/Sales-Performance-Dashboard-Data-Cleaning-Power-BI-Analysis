@@ -41,6 +41,7 @@ Sales channel comparison:
  Online vs In-store
 
 The dashboard is designed to be interactive, allowing users to filter by year, month, and product category.
+<img width="1273" height="716" alt="Captura de pantalla 2026-01-09 234540" src="https://github.com/user-attachments/assets/533bb0c1-98dc-47ce-be58-492c7c3158ea" />
 
 
-<img width="1272" height="712" alt="Sales" src="https://github.com/user-attachments/assets/f99b9963-468a-4fb8-838f-f3890519cdae" />
+
